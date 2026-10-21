@@ -1,0 +1,13 @@
+Masukan Nama: Lintang Meysila  
+Masukan NIM: 26241017
+Program Studi: PTI
+2 digit nim: 17
+==========output=========
+Nama: Lintang Meysila
+NIM: 26241017
+Program Studi: PTI
+Dua Digit Terakhir NIM: 17
+Tipe data Nama: <class 'str'>
+Tipe data NIM: <class 'int'>
+Tipe data Program Studi: <class 'str'>
+Tipe data Dua Digit Terakhir NIM: <class 'int'>
