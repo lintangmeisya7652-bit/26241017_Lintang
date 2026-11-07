@@ -1,6 +1,12 @@
-nim : 26241017
-digit pertama : 2
-digit kedua : 6
-digit ketiga : 2
-digit keempat : 4
-digit kelima : 1
+2 digit terakhir NIM: 17
+Digit terakhir NIM: 7
+Angka pertama: 17
+Angka kedua: 8
+--- Hasil 7 Operasi ---
+penjumlahan : 25
+pengurangan : 9
+perkalian : 136
+pembagian : 2.125
+floor dividion : 2
+modulus : 1
+perpangkatan : 6975757441
